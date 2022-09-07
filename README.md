@@ -12,6 +12,7 @@ Specifically use with [Modbus Monitor XPF]([url](https://www.modbusmonitor.com/)
 More information at [www.modbusmonitor.com/](https://www.modbusmonitor.com/)
 
 Arduino: [Arduino.cc](https://www.arduino.cc/reference/en/libraries/arduinomodbus/)
-Library: [ArduinoModbus GitHub](https://www.arduino.cc/reference/en/libraries/arduinomodbus/)
+
+Library: [ArduinoModbus GitHub](https://github.com/arduino-libraries/ArduinoModbus)
 
 
