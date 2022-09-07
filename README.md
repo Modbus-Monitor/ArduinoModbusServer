@@ -6,4 +6,4 @@ Specifically use with [Modbus Monitor XPF]([url](https://www.modbusmonitor.com/)
 
 More information at [www.modbusmonitor.com/](https://www.modbusmonitor.com/)
 
-![Employee data](/repository/assets/ArduinoModbusMonitorXPF.png?raw=true "Arduino Modbus RTU Server")
+![Arduino Modbus RTU Server](/repository/assets/ArduinoModbusMonitorXPF.png?raw=true "Arduino Modbus RTU Server")
