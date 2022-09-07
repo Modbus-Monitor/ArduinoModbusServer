@@ -5,7 +5,7 @@ Arduino Modbus Server that converts Arduino Board to Modbus RTU server. Use any 
 Specifically use with [Modbus Monitor XPF]([url](https://www.modbusmonitor.com/)) program. 
 
 
-Based On: [Arduino]([url](https://github.com/arduino-libraries/ArduinoModbus))
+Arduino: [Arduino.cc]([url](https://www.arduino.cc/reference/en/libraries/arduinomodbus/))
 Library: [ArduinoModbus]([url](https://www.arduino.cc/reference/en/libraries/arduinomodbus/))
 
 
