@@ -8,7 +8,10 @@ Example of using Modbus [Monitor XPF program](https://www.modbusmonitor.com/help
 
 
 
-More information at [www.modbusmonitor.com/](https://www.modbusmonitor.com/)
+More information at [www.QuantumBitSolutions.com/](https://www.QuantumBitSolutions.com/)
+(Old) More information at [www.modbusmonitor.com/](https://modbusmonitor.com/)
+
+
 
 [Arduino.cc](https://www.arduino.cc/reference/en/libraries/arduinomodbus/)
 
