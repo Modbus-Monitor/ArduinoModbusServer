@@ -6,11 +6,7 @@ Example of using Modbus [Monitor XPF program](https://www.modbusmonitor.com/help
 
 ![Arduino Modbus RTU Server](/assets/ArduinoModbusMonitorXPF.png?raw=false "Arduino Modbus RTU Server")
 
-
-
 More information at [www.QuantumBitSolutions.com](https://www.QuantumBitSolutions.com/)
-Direct Link to Topic: [Arduino Server Link from Quantum Bit Solutions]([https://](https://quantumbitsolutions.com/arduino-modbus-server/)
-
 
 
 [Arduino.cc](https://www.arduino.cc/reference/en/libraries/arduinomodbus/)
